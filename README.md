@@ -7,5 +7,5 @@ Let’s dig into Vagrant today!
 Also:
 
 *This project is __100% optional__
-*This project __can’t be done in Sandboxes__ - it can be done only in your local computer
+*This project __can’t be done in Sandboxes__ - it can be done only in your local computer.
 
